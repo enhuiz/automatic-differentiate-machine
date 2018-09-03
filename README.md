@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is toy automatic differentiation machine which parses expressions and then differentiate them according to different variables.
+This is toy automatic differentiation machine which parses expressions and then differentiate them according to different variables. Have fun!
 
 ## Build
 
@@ -49,6 +49,4 @@ int main()
 
 - https://github.com/PanagiotisPtr/Reverse-Mode-Automatic-Differentiation-Cpp
 
----
 
-Have fun!
