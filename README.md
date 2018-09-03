@@ -1,4 +1,4 @@
-# Automatic Differentiate Machine
+# Automatic Differentiation Machine
 
 ## Introduction
 
