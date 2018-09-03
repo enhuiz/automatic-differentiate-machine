@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is toy automatic differentiate machine which parses expressions and then differentiate them according to different variables.
+This is toy automatic differentiation machine which parses expressions and then differentiate them according to different variables.
 
 ## Build
 
